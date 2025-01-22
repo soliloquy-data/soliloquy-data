@@ -1,6 +1,6 @@
 ## Hey there , I'm Anoop  
 
-I'm a **Insights Architect** with a passion for exploring complex datasets and uncovering actionable insights. My focus areas include:
+I'm an **Insights Architect** with a passion for exploring complex datasets and uncovering actionable insights. My focus areas include:
 
 - Data **Analysis** & **Visualization**
 - Building **Data-driven Applications**
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... nothing 
 - 🤔 I’m looking for help with ... solving multiclass classification problem
 - 💬 Ask me about ... Running, Swimmimg and Metal Riffs before the 2000's
-- 📫 How to reach me: ...  my email
+- 📫 How to reach me: ...  my email:anoop.m9@gmail.com
 - 😄 Pronouns: ... Not a Fan
 - ⚡ Fun fact: ... Sharks are Older Than Trees :)
--->
