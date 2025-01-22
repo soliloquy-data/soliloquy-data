@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... creating a ML model to predict the price of smartphones
 - 🌱 I’m currently learning ... to be a better human being ;)
-- 👯 I’m looking to collaborate on ... nothing yet
-- 🤔 I’m looking for help with ... solving multiclass classification problem using ML techniques
+- 👯 I’m looking to collaborate on ... nothing 
+- 🤔 I’m looking for help with ... solving multiclass classification problem
 - 💬 Ask me about ... Running, Swimmimg and Metal Riffs before the 2000's
 - 📫 How to reach me: ...  my email
 - 😄 Pronouns: ... Not a Fan
