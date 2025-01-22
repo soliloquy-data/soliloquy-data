@@ -1,6 +1,4 @@
-## Hey there 
-
-# Hello, I'm Anoop  
+## Hey there , I'm Anoop  
 
 I'm a **Insights Architect** with a passion for exploring complex datasets and uncovering actionable insights. My focus areas include:
 
