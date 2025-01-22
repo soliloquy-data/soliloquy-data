@@ -8,8 +8,7 @@ I'm an **Insights Architect** with a passion for exploring complex datasets and 
 - Machine Learning & AI
 - Web Development with frameworks like **Streamlit** 
 
-Feel free to explore my repositories below and reach out if you'd like to collaborate or learn more. I'm always open to new ideas, opportunities, and collaborations!
-
+Feel free to explore my repositories below and reach out!
 
 Here are some ideas to get you started:
 
