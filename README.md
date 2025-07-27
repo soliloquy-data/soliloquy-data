@@ -1,6 +1,6 @@
 ## Hey there , I'm Anoop  
 
-I'm an **Insights Architect** with a passion for exploring complex datasets and uncovering actionable insights. 
+**Insights Architect** with a passion for exploring complex datasets and uncovering actionable insights. 
 My focus areas include:
 - Data **Analysis** & **Visualization**
 - Building **Data-driven Applications**
